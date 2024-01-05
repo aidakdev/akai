@@ -14,7 +14,7 @@ A next-generation, customizable and simple ID system, built in Rust.
 ### Features
 - **Simple.** Akai generates beautiful, minimal IDs that are unique due to time.
 - **Customizable.** You can personalize the prefix, the starting timestamp, and you can use a node ID.
-- **Robust.** Spacelaunch is built in Rust, the world's most loved programming language.
+- **Robust.** Akai is built in Rust, the world's most loved programming language.
 - **Safe.** It is impossible to generate a duplicate ID, due to the uniqueness of generating them based on the timestamp.
 
 ### Install
