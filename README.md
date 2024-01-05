@@ -12,10 +12,10 @@ A next-generation, customizable and simple ID system, built in Rust.
 </a>
 
 ### Features
-- **Simple.** Akai generates beautiful, minimal IDs that are unique due to time.
+- **Simple.** Akai generates beautiful, minimal IDs that are unique.
 - **Customizable.** You can personalize the prefix, the starting timestamp, and you can use a node ID.
 - **Robust.** Akai is built in Rust, the world's most loved programming language.
-- **Safe.** It is impossible to generate a duplicate ID, due to the uniqueness of generating them based on the timestamp.
+- **Safe.** It is impossible to generate a duplicate ID, due to the uniqueness of Superflake combined with random characters.
 
 ### Install
 
